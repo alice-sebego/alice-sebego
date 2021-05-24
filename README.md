@@ -56,7 +56,22 @@ Graduated in communication, I've got skills on :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alice-sebego&show_icons=true&locale=en&layout=compact" alt="Langages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alice-sebego&show_icons=true&locale=en" alt="stats" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alice-sebego&show_icons=true&locale=en" alt="stats" /></p>
+
+---
+## Follow us
+
+* <a href="https://linkedin.com/in/alicesebego" target="blank"><img src="./assets/linkedin.svg" alt="Linked In" width="40" height="40"/></a>  
+* <a href="https://twitter.com/comamalice" target="blank"><img src="./assets/twitter-icon.svg" alt="Twitter" width="40" height="40"/></a>
+* <img src="./assets/twitch-logo.png" alt="Twitch" width="40" height="40"/> 
+
+Some canals that I follow :
+1. [BenjaminCode](https://www.twitch.tv/benjamincode "Benjamin Code")
+2. [Grafikart](https://www.twitch.tv/grafikart "Grafikart")
+3. [IAmSeanRed](https://www.twitch.tv/iamseanred "IamSeanRed")
+4. [Liior](https://www.twitch.tv/liior "Liior")
+5. [WeLoveDevs](https://www.twitch.tv/welovedevs "We Love Devs")
 
 ---
 
