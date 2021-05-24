@@ -55,8 +55,6 @@ Graduated in communication, I've got skills on :
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alice-sebego&show_icons=true&locale=en&layout=compact" alt="Langages" /></p>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alice-sebego&show_icons=true&locale=en" alt="stats" /></p>
 
 ---
