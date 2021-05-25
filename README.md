@@ -28,9 +28,7 @@ collaboration(yourCompany, me, match)
 
 🌱 #CodeNewbie, I’m currently learning **Vue.JS, TypeScript and Node.JS**
 
-<img src="./assets/vue-js-logo.png" alt="php" width="40" height="35"/>
-<img src="./assets/typescript.svg" alt="php" width="40" height="40"/>
-<img src="./assets/nodejs.svg" alt="php" width="40" height="40"/>
+<img src="./assets/vue-js-logo.png" alt="php" width="40" height="35"/> <img src="./assets/typescript.svg" alt="php" width="40" height="40"/> <img src="./assets/nodejs.svg" alt="php" width="40" height="40"/>
 
  After several experiences, self-taught learning and 2 training (on 2009 and 2019), I'm looking for a team to grow up via a work-study journey
 
