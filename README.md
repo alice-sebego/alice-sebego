@@ -28,14 +28,18 @@ collaboration(yourCompany, me, match)
 
 🌱 #CodeNewbie, I’m currently learning **Vue.JS, TypeScript and Node.JS**
 
+<img src="./assets/vue-js-logo.png" alt="php" width="40" height="35"/>
+<img src="./assets/typescript.svg" alt="php" width="40" height="40"/>
+<img src="./assets/nodejs.svg" alt="php" width="40" height="40"/>
+
  After several experiences, self-taught learning and 2 training (on 2009 and 2019), I'm looking for a team to grow up via a work-study journey
 
 ## Langages, Frameworks & Tools
 
 | Frontend      | Others        | Tools |
 | ------------- |:-------------:| -----:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "MySQL") | <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="./assets/php.svg" alt="php" width="40" height="40"/> | <img src="./assets/webpack-icon.svg" alt="webpack" width="50" height="50"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="./assets/mysql.svg" alt="php" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="./assets/wordpress-logo.png?raw=true" alt="WordPress" width="40" height="40"/>  | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> | <img src="./assets/prestashop.svg" alt="PrestaShop" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> |  | <img src="./assets/VScode.png" alt="VS Code" width="40" height="40"/> |
@@ -60,11 +64,12 @@ Graduated in communication, I've got skills on :
 ---
 ## Follow us
 
-* <a href="https://linkedin.com/in/alicesebego" target="blank"><img src="./assets/linkedin.svg" alt="Linked In" width="40" height="40"/></a>  
-* <a href="https://twitter.com/comamalice" target="blank"><img src="./assets/twitter-icon.svg" alt="Twitter" width="40" height="40"/></a>
-* <img src="./assets/twitch-logo.png" alt="Twitch" width="40" height="40"/> 
+<a href="https://linkedin.com/in/alicesebego" target="blank"><img src="./assets/linkedin.svg" alt="Linked In" width="40" height="40"/></a>
+<a href="https://twitter.com/comamalice" target="blank"><img src="./assets/twitter-icon.svg" alt="Twitter" width="40" height="40"/></a>
+<img src="./assets/twitch-logo.png" alt="Twitch" width="40" height="40"/> 
 
-Some canals that I follow :
+On Twitch, we can chat on some channels that I follow :
+
 1. [BenjaminCode](https://www.twitch.tv/benjamincode "Benjamin Code")
 2. [Grafikart](https://www.twitch.tv/grafikart "Grafikart")
 3. [IAmSeanRed](https://www.twitch.tv/iamseanred "IamSeanRed")
