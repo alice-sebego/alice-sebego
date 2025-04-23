@@ -30,7 +30,13 @@ collaboration(yourCompany, me, match)
 
 <img src="./assets/vue-js-logo.png" alt="php" width="40" height="35"/> <img src="./assets/typescript.svg" alt="php" width="40" height="40"/> <img src="./assets/nodejs.svg" alt="php" width="40" height="40"/>
 
- After several experiences, self-taught learning and 2 training (on 2009 and 2019), I'm looking for a team to grow up via a work-study journey
+ After several experiences, self-taught learning and 2 training (on 2009, 2019 and 2021-25), I'm currently working with a team to grow up via a work-study journey.
+
+ With several years of experience in front-end development, I am passionate about creating engaging user experiences and continuously improving my skills.
+
+ I'm very proud and grateful of my projects and collaborations with Obione Team.
+
+ 1000 thanks for all their support and encouragement along my journey.
 
 ## Langages, Frameworks & Tools
 
