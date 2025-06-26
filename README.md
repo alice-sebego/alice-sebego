@@ -1,23 +1,23 @@
 # Hi 👋, I'm Alice
 
-### "*If I want to be a competent Frontend Developer, I'm ready to be student for life* 😅"
+### "*If I want to be a competent Frontend Developer, I'm ready to be a longlife student* 😅"
 
 <!--
 **alice-sebego/alice-sebego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ---
 ```javascript
-let yourCompany = ["your team"];
+let yourCompany = ["My current team"];
 let me = "Alice";
 let match = true;
  
-const collaboration = (company, applicant, matching) =>{  
+const collaboration = (company, applicant, matching) => {  
     try {
-      if(matching){
+      if(matching) {
         company.push(applicant);
         return `An awesome collaboration is announced between ${company[0]} and ${company[1]} 🤩`;
       }
-    } catch (err){
+    } catch (err) {
       return `Oh there is an error : ${err} \n Okay ! Let's wish a good continuation 🙂`;
     }  
 }
@@ -30,7 +30,7 @@ collaboration(yourCompany, me, match)
 
 <img src="./assets/vue-js-logo.png" alt="php" width="40" height="35"/> <img src="./assets/typescript.svg" alt="php" width="40" height="40"/> <img src="./assets/nodejs.svg" alt="php" width="40" height="40"/>
 
- After several experiences, self-taught learning and 2 training (on 2009, 2019 and 2021-25), I'm currently working with a team to grow up via a work-study journey.
+ After several experiences, self-taught learning and 4 trainings (in 2009, 2019 and 2021-25), I'm currently working with a team to grow up via a work-study journey.
 
  With several years of experience in front-end development, I am passionate about creating engaging user experiences and continuously improving my skills.
 
