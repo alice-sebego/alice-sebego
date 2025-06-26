@@ -11,9 +11,9 @@ let yourCompany = ["My current team"];
 let me = "Alice";
 let match = true;
  
-const collaboration = (company, applicant, match) => {  
+const collaboration = (company, applicant, ismatch) => {  
     try {
-      if(match) {
+      if(ismatch) {
         company.push(applicant);
         return `An awesome collaboration is announced between ${company[0]} and ${company[1]} 🤩`;
       }
