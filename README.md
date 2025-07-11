@@ -70,7 +70,7 @@ Graduated in communication, I've got skills on :
 ## Let's follow each other
 
 <a href="https://linkedin.com/in/alicesebego" target="blank"><img src="./assets/linkedin.svg" alt="Linked In" width="40" height="40"/></a>
-<a href="https://twitter.com/comamalice" target="blank"><img src="./assets/twitter-icon.svg" alt="Twitter" width="40" height="40"/></a>
+<a href="https://twitter.com/comamalice" target="blank"><img src="./assets/x-twitter.png" alt="Twitter" width="40" height="40"/></a>
 <img src="./assets/twitch-logo.png" alt="Twitch" width="40" height="40"/> 
 
 On Twitch, we can chat on some channels that I follow :
